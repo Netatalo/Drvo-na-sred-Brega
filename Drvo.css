@@ -1,0 +1,58 @@
+.GG{
+    background-color: green;
+    padding-top: 25px;
+    font-family: 'Courier New', Courier, monospace ;
+    color: black;
+    font-size:25px;
+    text-align:right;
+    
+
+}
+
+.PNK{
+    background-color: teal;
+    padding-top: 25px;
+    font-family: 'Courier New', Courier, monospace ;
+    color: black;
+    font-size:25px;
+    text-align: center;
+}
+
+.PB{
+    background-color: green;
+    padding-top: 25px;
+    font-family: 'Courier New', Courier, monospace ;
+    color: black;
+    font-size:25px;
+    text-align: center;
+}
+
+
+.NS{
+    background-color: rgba(5,200, 50,0.5 );
+    padding-top: 25px;
+    font-family: 'Courier New', Courier, monospace ;
+    color: black;
+    font-size:25px;
+    text-align: center;
+}
+
+
+.KT{
+    background-color: rgba(5,200, 50,0.5 );
+    padding-top: 25px;
+    font-family: 'Courier New', Courier, monospace ;
+    color: black;
+    font-size:25px;
+    text-align: right;
+    
+}
+
+.PS{
+    background-color: white;
+    padding-top: 25px;
+    font-family: 'Courier New', Courier, monospace ;
+    color: black;
+    font-size:25px;
+    text-align: right;
+}
